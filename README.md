@@ -3,7 +3,6 @@
 **`Designer/Front-end Developer`**
 
 My name is Francieli Malasiuk, I'm Italian-Brazilian and I am 28 years old. I have a bachelor's degree in Advertising and Publicity and I am currently studying Computer and Information Systems.
-Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube 
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -63,14 +62,14 @@ Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu can
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+/> --!>
 <img 
     align="left" 
     alt="SASS" 
