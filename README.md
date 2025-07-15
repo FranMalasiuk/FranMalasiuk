@@ -33,7 +33,7 @@ I love turning ideas into digital solutions and I'm always learning new technolo
 
 ---
 
-## 💋 How to reach me
+## 📫 How to reach me
 
 - ✉️ **Email:** fran.malasiuk@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/franmalasiuk](https://www.linkedin.com/in/franmalasiuk/)
