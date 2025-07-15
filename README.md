@@ -37,7 +37,7 @@ I love turning ideas into digital solutions and I'm always learning new technolo
 
 - ✉️ **Email:** fran.malasiuk@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/franmalasiuk](https://www.linkedin.com/in/franmalasiuk/)
-- 🌐 **Portfolio:** (coming soon or add your portfolio link)
+- 🌐 **Portfolio:** (coming soon)
 
 ---
 
