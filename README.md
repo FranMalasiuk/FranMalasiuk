@@ -1,143 +1,51 @@
-# 👩🏻‍💻 Francieli Malasiuk
+# 👩‍💻 Francieli Malasiuk
 
-**`Designer/Front-end Developer`**
+✨ Frontend Developer passionate about creating responsive, accessible, and user-friendly interfaces.  
+🎨 Main stack: **React**, **JavaScript**, **HTML/CSS**.
 
-My name is Francieli Malasiuk, I'm Italian-Brazilian and I am 28 years old. I have a bachelor's degree in Advertising and Publicity and I am currently studying Computer and Information Systems.
+---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 About Me
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/> 
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/> --!>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/> --!>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+I'm a web development student looking for opportunities as a **Junior Frontend Developer**.  
+I love turning ideas into digital solutions and I'm always learning new technologies to deliver the best possible results.
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 🌱 Technologies I work with
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=franmalasiuk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+## 📌 Featured Projects
+
+| Project | Description | Technologies | Links |
+|--------|-------------|--------------|-------|
+| **BMI Calculator** | Responsive Body Mass Index calculator | HTML, CSS, JavaScript | [Live Site](https://franmalasiuk.github.io/BMI_Calculator/) • [GitHub](https://github.com/FranMalasiuk/BMI_Calculator) |
+| **Another Project** | Short description | React, JavaScript | [Link](#) |
+
+> *Tip: Keep this list updated as you build more projects!*
+
+---
+
+## 💋 How to reach me
+
+- ✉️ **Email:** fran.malasiuk@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/franmalasiuk](https://www.linkedin.com/in/franmalasiuk/)
+- 🌐 **Portfolio:** (coming soon or add your portfolio link)
+
+---
+
+## 🎯 Current Goal
+
+Currently seeking opportunities as a **Junior Frontend Developer** to collaborate on creative teams and challenging projects.
+
+---
+
+⭐ Thanks for stopping by my GitHub!
+
