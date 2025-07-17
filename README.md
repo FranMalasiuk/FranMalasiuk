@@ -24,12 +24,25 @@ I love turning ideas into digital solutions and I'm always learning new technolo
 
 ## 📌 Featured Projects
 
-| Project | Description | Technologies | Links |
-|--------|-------------|--------------|-------|
-| **BMI Calculator** | Responsive Body Mass Index calculator | HTML, CSS, JavaScript | [Live Site](https://franmalasiuk.github.io/BMI_Calculator/) • [GitHub](https://github.com/FranMalasiuk/BMI_Calculator) |
-| **Another Project** | Short description | React, JavaScript | [Link](#) |
+These are some of my favorite projects — each one represents a step in my journey as a front-end developer:
 
-> *Tip: Keep this list updated as you build more projects!*
+- ✅ [Advanced To-Do List](https://github.com/FranMalasiuk/Advanced_toDoList)  
+  A feature-rich to-do list with light/dark mode toggle, status filtering, dynamic counters, drag-and-drop support, and localStorage persistence.
+
+- 🖼️ [Art Gallery - Lazy Load](https://github.com/FranMalasiuk/Art-Gallery_Lazy-Load)  
+  An art gallery implementing lazy loading using `IntersectionObserver`, focused on performance and clean UX.
+
+- ⚖️ [BMI Calculator](https://github.com/FranMalasiuk/BMI_Calculator)  
+  An interactive Body Mass Index calculator with visual feedback and categorized results — great for practicing logic and DOM manipulation.
+
+- 📱 [iPhone Clone](https://github.com/FranMalasiuk/iPhone_Clone)  
+  A stylized clone of the iPhone lock screen, featuring real-time clock and date with smooth animations and a focus on realistic UI design.
+
+- 📚 [Modern Wikipedia](https://github.com/FranMalasiuk/Modern-Wikipedia)  
+  A challenge from the Santander 2025 Front-End Bootcamp — a modern Wikipedia layout built with semantic HTML and responsive design principles.
+
+- ➗ [Multiplication Table](https://github.com/FranMalasiuk/Multiplication-Table)  
+  Dynamically generates a multiplication table from user input. A simple and effective way to strengthen JavaScript fundamentals.
 
 ---
 
